@@ -1,0 +1,23 @@
+[2022-12-11 19:13:20,186] DEBUG mainapp.views (66) Yet another log message
+[2022-12-11 19:13:29,419] DEBUG mainapp.views (66) Yet another log message
+[2022-12-11 20:09:26,050] DEBUG mainapp.views (66) Yet another log message
+[2022-12-11 20:11:54,990] DEBUG mainapp.views (67) Yet another log message
+[2022-12-11 20:12:08,488] DEBUG mainapp.views (67) Yet another log message
+[2022-12-11 20:16:51,024] DEBUG mainapp.views (67) Yet another log message
+[2022-12-11 20:16:57,396] DEBUG mainapp.views (67) Yet another log message
+[2022-12-11 20:17:01,040] DEBUG mainapp.views (67) Yet another log message
+[2022-12-11 20:17:04,412] DEBUG mainapp.views (67) Yet another log message
+[2022-12-11 20:17:07,767] DEBUG mainapp.views (67) Yet another log message
+[2022-12-11 20:54:52,167] INFO mainapp.tasks (14) Send message: '{'user_id': '4', 'message': 'Help!'}'
+[2022-12-13 19:45:09,394] DEBUG mainapp.views (73) Yet another log message
+[2022-12-13 20:02:48,248] DEBUG mainapp.views (73) Yet another log message
+[2022-12-13 20:04:48,719] DEBUG mainapp.views (73) Yet another log message
+[2022-12-14 19:23:37,101] DEBUG mainapp.views (73) Yet another log message
+[2022-12-14 19:23:46,056] DEBUG mainapp.views (73) Yet another log message
+[2022-12-14 19:24:02,141] DEBUG mainapp.views (73) Yet another log message
+[2022-12-14 19:30:07,299] INFO mainapp.tasks (14) Send message: '{'user_id': 1, 'message': 'test_message_text'}'
+[2022-12-14 19:31:07,103] INFO mainapp.tasks (14) Send message: '{'user_id': 1, 'message': 'test_message_text'}'
+[2022-12-14 19:33:29,741] DEBUG mainapp.views (73) Yet another log message
+[2022-12-14 19:33:29,924] INFO mainapp.tasks (14) Send message: '{'user_id': 1, 'message': 'test_message_text'}'
+[2022-12-15 13:52:10,501] DEBUG mainapp.views (73) Yet another log message
+[2022-12-15 13:52:11,246] INFO mainapp.tasks (14) Send message: '{'user_id': 1, 'message': 'test_message_text'}'
